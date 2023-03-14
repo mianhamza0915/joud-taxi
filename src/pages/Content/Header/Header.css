@@ -1,0 +1,20 @@
+.main_header{
+  transition: all 0.5s;
+  padding: 20px 0;
+}
+.main_header.scrolled{
+  background-color: #fff;
+  padding: 10px 0;
+  box-shadow: 0px 2px 20px rgb(1 41 112 / 10%);
+}
+.main_logo img{
+  height: 50px;
+  width: auto;
+}
+.main_menu a{
+  font-size: 18px;
+  font-weight: 600;
+  margin: 0 15px;
+  color: #000000;
+}
+

@@ -1,0 +1,24 @@
+.social_links {
+  padding-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+.social_links a{
+  margin: 10px;
+    display: flex;
+    border: 1px solid #000000;
+    padding: 10px;
+}
+.social_links a:hover{
+  background-color: #ffffff ;
+  border-color:  #ffffff ;
+}
+.footer_bottom{
+  padding-bottom: 20px;
+  padding-top: 4px;
+}
+.footer_bottom a{
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+}
